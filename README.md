@@ -1,7 +1,7 @@
 # Arduino-AudioSwitchPower
 **Audio switch for 4 stereo channels of power.**
 
-![](https://github.com/Democrito/Arduino-AudioSwitchPower/blob/main/scheme/scheme.PNG)
+![](https://github.com/Democrito/Arduino-AudioSwitchPower/blob/main/scheme/scheme_v5.PNG)
 
 This is a 4 channel stereo power switch. This type of switch is very expensive and difficult to find on the market. With the help of an Arduino and some relays we can make one at a very low cost.
 
